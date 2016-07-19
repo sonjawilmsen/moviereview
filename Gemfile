@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
 gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'rails', '4.2.6'
 gem 'sqlite3'
