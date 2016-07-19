@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.2.5'
+
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
 gem 'searchkick'
 gem 'devise', '~> 3.5', '>= 3.5.6'
@@ -23,4 +25,6 @@ group :development do
   gem 'web-console', '~> 2.0'
 
   gem 'spring'
+
+gem 'rails_12factor', group: :production
 end
