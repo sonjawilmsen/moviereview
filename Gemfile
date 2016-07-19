@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
+gem 'searchkick'
 gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'rails', '4.2.6'
