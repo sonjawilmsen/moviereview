@@ -19,7 +19,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'rails_12factor'
 
 
-What I learned
+This app inlcudes:
 
 Users
 Reviews
@@ -27,3 +27,7 @@ Ratings
 Search
 HAML
 Bootstrap
+
+What did I learn
+
+Using HAML for the first time, which was interesting. It was a very nice app to make to get a clear idea of the structure of a rails app.
