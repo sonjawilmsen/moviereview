@@ -1,28 +1,29 @@
+A movie review app based on Ruby on Rails
+
+Live preview: https://sleepy-sands-36904.herokuapp.com/
+
+Work in progress
+
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby version 2.2.5
 
-Things you may want to cover:
+Database PostGresQl
 
-* Ruby version
+Installed Gems
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
+gem 'searchkick'
+gem 'devise', '~> 3.5', '>= 3.5.6'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'rails_12factor'
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+What I learned
+
+Users
+Reviews
+Ratings
+Search
+HAML
+Bootstrap
